@@ -106,7 +106,7 @@ The underlying analytical framework is described in:
 
 > Mzembi, T. (2026). *Design, Modelling, and Performance Optimisation of a RIS-Assisted Hybrid RF/FSO Communication System for Reliable Rural Connectivity in Zimbabwe* [M.Tech thesis, Harare Institute of Technology].
 
-**[TO ADD: once the SoftwareX paper is published, add its full citation and DOI here and in CITATION.cff as the preferred citation]**
+
 
 ## Authors
 
