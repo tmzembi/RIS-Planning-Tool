@@ -6,7 +6,7 @@ Developed as part of a Master of Technology research project in Telecommunicatio
 
 ![RIS Planning Tool GUI](docs/screenshot.png)
 
-**[TO ADD: copy the GUI screenshot used in the SoftwareX manuscript into `docs/screenshot.png`]**
+
 
 ## What it computes
 
@@ -78,7 +78,7 @@ Baseline configuration used throughout the accompanying publications: N = 50 RIS
 
 **EXPORT REPORT** saves a plain-text file named `RIS_Planning_Report_YYYYMMDD_HHMMSS.txt` containing two sections: a link budget summary matching the on-screen display, and a full numerical table listing outage probability, ergodic capacity, and BER at every SNR point in the specified range. A sample report is included in [`examples/`](examples/).
 
-**[TO ADD: run the tool once with default settings and commit the exported report as `examples/sample_report.txt`]**
+
 
 ## Validity notes
 
