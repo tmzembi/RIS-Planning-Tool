@@ -5,12 +5,13 @@ message: "If you use this software, please cite it using the metadata below."
 type: software
 title: "RIS Deployment Planning Tool"
 abstract: >-
-  A single-file MATLAB GUI application that computes site-specific link
+  A single-file MATLAB application that computes site-specific link
   budgets for RIS-assisted hybrid RF/FSO relay deployments in rural
-  Zimbabwe, implementing closed-form expressions for end-to-end outage
-  probability, ergodic capacity, and average bit error rate with
-  terrain-calibrated Nakagami-m and season-calibrated Gamma-Gamma
-  channel parameters.
+  Zimbabwe. It evaluates end-to-end outage probability, ergodic capacity
+  and average bit error rate, converts the required average SNR into
+  required transmit power, and ships terrain (Nakagami-m) and season
+  (Gamma-Gamma) presets taken from published studies of comparable
+  environments, with user-defined parameters as an alternative.
 authors:
   - family-names: "Mzembi"
     given-names: "Tinotenda"
@@ -20,8 +21,8 @@ authors:
     given-names: "Munyaradzi Charles"
     orcid: "https://orcid.org/0000-0001-7452-7612"
     affiliation: "Harare Institute of Technology"
-version: "1.0.0"
-date-released: "2026-07-16"   # TO ADD: update to the actual public release date
+version: "1.2.0"
+date-released: "2026-11-12"   # TO ADD: set to the day you tag v1.2.0
 repository-code: "https://github.com/tmzembi/RIS-Planning-Tool"
 license: MIT
 keywords:
