@@ -22,7 +22,7 @@ authors:
     orcid: "https://orcid.org/0000-0001-7452-7612"
     affiliation: "Harare Institute of Technology"
 version: "1.2.0"
-date-released: "2026-11-12"   # TO ADD: set to the day you tag v1.2.0
+date-released: "2026-11-19"
 repository-code: "https://github.com/tmzembi/RIS-Planning-Tool"
 license: MIT
 keywords:
@@ -35,15 +35,3 @@ keywords:
   - rural connectivity
   - Zimbabwe
   - MATLAB
-# TO ADD once the SoftwareX paper is published — uncomment and complete:
-# preferred-citation:
-#   type: article
-#   title: "[SoftwareX paper title]"
-#   authors:
-#     - family-names: "Mzembi"
-#       given-names: "Tinotenda"
-#     - family-names: "Rushambwa"
-#       given-names: "Munyaradzi Charles"
-#   journal: "SoftwareX"
-#   year: 2026
-#   doi: "[DOI]"
